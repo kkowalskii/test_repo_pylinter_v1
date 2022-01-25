@@ -1,3 +1,5 @@
-def add(a, b) -> int:
-    wynik = a + b + "ala ma kota"
-    return wynik
+import math
+import os
+
+def func1(a, b) -> str:
+    return math.floor(a + b)
