@@ -1,5 +1,2 @@
-import math
-
-
-def func1(a, b) -> str:
-    return math.floor(a + b)
+def suma(a, b):
+    return int(a + b)
